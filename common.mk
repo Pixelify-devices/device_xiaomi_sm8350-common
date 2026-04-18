@@ -364,6 +364,7 @@ PRODUCT_PACKAGES += \
 # Optimize
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     Launcher3QuickStep \
+    NexusLauncherRelease \
     Settings
 
 # Partitions
